@@ -52,6 +52,7 @@ The Flint and Steel is required to light the Nether Portal and enter the Nether.
 On opposite sides of the Theater, above the barriers, there are blocks of iron ore and coal. Have a gernade explode on them to drop an iron ingot and coal respectively.
 
 ![Coal Block](https://github.com/colepatters/zm-guide/blob/main/guides/assets/Minecraft_Scriptwo/coal_block.png?raw=true)
+![Animated GIF of collecting iron](https://github.com/colepatters/zm-guide/blob/main/guides/assets/Minecraft_Scriptwo/gather_iron.gif?raw=true)
 
 ### Gather Flint
 
